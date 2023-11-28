@@ -1,0 +1,1 @@
+let () = Printf.printf "%s\n" Hellocaml.Hello.world
