@@ -5,13 +5,13 @@
 (generate_opam_files true)
 
 (source
- (github username/reponame))
+ (github Fuiste/hellocaml))
 
-(authors "Author Name")
+(authors "William Pelrine")
 
-(maintainers "Maintainer Name")
+(maintainers "William Pelrine")
 
-(license LICENSE)
+(license MIT)
 
 (documentation https://url/to/documentation)
 
